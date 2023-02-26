@@ -5,6 +5,8 @@
 
 > Furthermore, the app instantly provides you with up-to-date weather information via the openweather API, including current temperature, wind speed, and humidity. This feature helps you plan your outdoor activities accordingly, ensuring that you can make the most of your time in the park.
 
+> Deployed app: https://marzena-w.github.io/park-time-app/ 
+
 ## Technology
 > The browser-based app utilizes GoogleMaps API, OpenWeatherMap API, moment.js and is written in JavaScript to deliver a dynamic and engaging user experience. With these tools, the app is able to update its HTML content in real-time, providing users with the latest information and features.
 
