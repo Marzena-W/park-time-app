@@ -1,9 +1,9 @@
 # Park Time
 
 ## Description
-> If you love spending time outdoors in parks, the Park Time app is an excellent resource to have at your fingertips. Its interface is easy to use allowing you to input your desired location and instantly receive up-to-date weather information via the openweather API. The app provides current temperature, wind speed, and humidity, to help you plan your outdoor activities accordingly.
+> The Park Time app is a fantastic resource for anyone who loves spending time outdoors in parks. With its user-friendly interface, you can quickly input your desired location, and thanks to the Google Maps API, the app showcases the selected area and displays parks located within a 500m radius of your chosen location.
 
-> In addition, the app integrates the Google Maps API to offer users an immersive experience. By utilizing this tool, the app showcases the selected area and displays all the parks located within a 500m radius of the chosen location. This feature enables users to explore nearby parks and plan their visit with ease.
+> Furthermore, the app instantly provides you with up-to-date weather information via the openweather API, including current temperature, wind speed, and humidity. This feature helps you plan your outdoor activities accordingly, ensuring that you can make the most of your time in the park.
 
 ## Technology
 > The browser-based app utilizes GoogleMaps API, OpenWeatherMap API, moment.js and is written in JavaScript to deliver a dynamic and engaging user experience. With these tools, the app is able to update its HTML content in real-time, providing users with the latest information and features.
