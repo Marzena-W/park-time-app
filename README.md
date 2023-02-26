@@ -11,7 +11,7 @@
 ## Installation
 > The app's design is optimized for a seamless user experience on any device. It is designed to be responsive, adapting its layout and functionality to fit the screen size and orientation of desktops, laptops, tablets, and smartphones. This is accomplished through the use of flexible layouts, scalable graphics, and fluid grids that adjust to the user's screen size and orientation. 
 
-## Mockup
+## Screenshot
 ![Homepage](./images/park-time.png)
 
 ## Licences
